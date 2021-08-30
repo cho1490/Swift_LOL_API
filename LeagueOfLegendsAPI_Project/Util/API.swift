@@ -10,7 +10,7 @@ import Foundation
 enum API {
     // MARK: - BASE
     
-    static let KEY = "RGAPI-feaa808d-3cd9-4eeb-8715-583af1681f6d"
+    static let KEY = "HI"
  
     static let BASE_URL = "https://kr.api.riotgames.com"
     
