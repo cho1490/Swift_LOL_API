@@ -5,7 +5,7 @@ https://developer.riotgames.com/ (리그 오브 레전드 api) 에서 제공하�
 ## 개발환경
 * Xcode
 * Swift
-* MVVM (Coordinator 조금)
+* MVVM
 
 ## 라이브러리 
 * Alamofire
